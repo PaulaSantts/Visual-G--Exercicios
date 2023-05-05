@@ -1,0 +1,18 @@
+Algoritmo "multiplos"
+
+Var
+   x, y : inteiro
+
+
+Inicio
+    escreval("Digite dois números inteiros:")
+    leia(x)
+    leia(y)
+
+    se (x % Y = 0) ou (y % X = 0) entao
+        escreval("São multiplos.")
+    senao
+        escreval("Não são multiplos")
+    fimse
+Fimalgoritmo
+fimse
